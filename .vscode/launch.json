@@ -2,21 +2,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - TopTrumps",
+            "name": "CodeLens (Launch) - BinarySearch",
             "request": "launch",
-            "mainClass": "TopTrumps"
+            "mainClass": "BinarySearch"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Person",
+            "name": "CodeLens (Launch) - Testing",
             "request": "launch",
-            "mainClass": "Person"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Driver",
-            "request": "launch",
-            "mainClass": "Driver"
+            "mainClass": "Testing"
         }
     ]
 }
